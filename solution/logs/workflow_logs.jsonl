@@ -1,0 +1,738 @@
+2025-08-14 12:44:17,956 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:17,956 - workflow_logger - INFO - [SUBMISSION] Ticket session started for TICKET-001
+2025-08-14 12:44:17,956 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:17,956 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:44:17,977 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:17,977 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:44:17,977 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:17,977 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:44:17,978 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:17,978 - workflow_logger - ERROR - [RESOLUTION_ATTEMPT] Error occurred: workflow_execution - 'RetrievalResult' object has no attribute 'confidence_score'
+2025-08-14 12:44:17,978 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:17,978 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: error
+2025-08-14 12:44:17,979 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:17,979 - workflow_logger - INFO - [SUBMISSION] Ticket session started for TICKET-002
+2025-08-14 12:44:17,979 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:17,979 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:44:17,985 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:17,985 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:44:17,985 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:17,985 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:44:17,986 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:17,986 - workflow_logger - ERROR - [RESOLUTION_ATTEMPT] Error occurred: workflow_execution - 'RetrievalResult' object has no attribute 'confidence_score'
+2025-08-14 12:44:17,986 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:17,986 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: error
+2025-08-14 12:44:17,986 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:17,986 - workflow_logger - INFO - [SUBMISSION] Ticket session started for TICKET-003
+2025-08-14 12:44:17,986 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:17,986 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:44:17,995 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:17,995 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:44:17,995 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:17,995 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:44:17,995 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:17,995 - workflow_logger - ERROR - [RESOLUTION_ATTEMPT] Error occurred: workflow_execution - 'RetrievalResult' object has no attribute 'confidence_score'
+2025-08-14 12:44:17,996 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:17,996 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: error
+2025-08-14 12:44:18,033 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,033 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,033 - workflow_logger - INFO - [SUBMISSION] Ticket session started for TICKET-005
+2025-08-14 12:44:18,033 - workflow_logger - INFO - [SUBMISSION] Ticket session started for TICKET-005
+2025-08-14 12:44:18,034 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,034 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,034 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:44:18,034 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:44:18,044 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,044 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,044 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:44:18,044 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:44:18,044 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,044 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,044 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:44:18,044 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:44:18,045 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,045 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,045 - workflow_logger - ERROR - [RESOLUTION_ATTEMPT] Error occurred: workflow_execution - 'RetrievalResult' object has no attribute 'confidence_score'
+2025-08-14 12:44:18,045 - workflow_logger - ERROR - [RESOLUTION_ATTEMPT] Error occurred: workflow_execution - 'RetrievalResult' object has no attribute 'confidence_score'
+2025-08-14 12:44:18,045 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,045 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,045 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: error
+2025-08-14 12:44:18,045 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: error
+2025-08-14 12:44:18,082 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,082 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,082 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,082 - workflow_logger - INFO - [SUBMISSION] Ticket session started for ERROR-001
+2025-08-14 12:44:18,082 - workflow_logger - INFO - [SUBMISSION] Ticket session started for ERROR-001
+2025-08-14 12:44:18,082 - workflow_logger - INFO - [SUBMISSION] Ticket session started for ERROR-001
+2025-08-14 12:44:18,082 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,082 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,082 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,082 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:44:18,082 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:44:18,082 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:44:18,083 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,083 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,083 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,083 - workflow_logger - INFO - [ROUTING] Routed from supervisor to knowledge_base: Category: general, Complexity: moderate
+2025-08-14 12:44:18,083 - workflow_logger - INFO - [ROUTING] Routed from supervisor to knowledge_base: Category: general, Complexity: moderate
+2025-08-14 12:44:18,083 - workflow_logger - INFO - [ROUTING] Routed from supervisor to knowledge_base: Category: general, Complexity: moderate
+2025-08-14 12:44:18,083 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,083 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,083 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,083 - workflow_logger - INFO - [ROUTING] Workflow stage: routing
+2025-08-14 12:44:18,083 - workflow_logger - INFO - [ROUTING] Workflow stage: routing
+2025-08-14 12:44:18,083 - workflow_logger - INFO - [ROUTING] Workflow stage: routing
+2025-08-14 12:44:18,084 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,084 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,084 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,084 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: resolved
+2025-08-14 12:44:18,084 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: resolved
+2025-08-14 12:44:18,084 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: resolved
+2025-08-14 12:44:18,084 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,084 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,084 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,084 - workflow_logger - INFO - [SUBMISSION] Ticket session started for ERROR-002
+2025-08-14 12:44:18,084 - workflow_logger - INFO - [SUBMISSION] Ticket session started for ERROR-002
+2025-08-14 12:44:18,084 - workflow_logger - INFO - [SUBMISSION] Ticket session started for ERROR-002
+2025-08-14 12:44:18,084 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,084 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,084 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,084 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:44:18,084 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:44:18,084 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:44:18,098 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,098 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,098 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,098 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:44:18,098 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:44:18,098 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:44:18,098 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,098 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,098 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,098 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:44:18,098 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:44:18,098 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:44:18,099 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,099 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,099 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,099 - workflow_logger - ERROR - [RESOLUTION_ATTEMPT] Error occurred: workflow_execution - 'RetrievalResult' object has no attribute 'confidence_score'
+2025-08-14 12:44:18,099 - workflow_logger - ERROR - [RESOLUTION_ATTEMPT] Error occurred: workflow_execution - 'RetrievalResult' object has no attribute 'confidence_score'
+2025-08-14 12:44:18,099 - workflow_logger - ERROR - [RESOLUTION_ATTEMPT] Error occurred: workflow_execution - 'RetrievalResult' object has no attribute 'confidence_score'
+2025-08-14 12:44:18,099 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,099 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,099 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,099 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: error
+2025-08-14 12:44:18,099 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: error
+2025-08-14 12:44:18,099 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: error
+2025-08-14 12:44:18,099 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,099 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,099 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,099 - workflow_logger - INFO - [SUBMISSION] Ticket session started for ERROR-003
+2025-08-14 12:44:18,099 - workflow_logger - INFO - [SUBMISSION] Ticket session started for ERROR-003
+2025-08-14 12:44:18,099 - workflow_logger - INFO - [SUBMISSION] Ticket session started for ERROR-003
+2025-08-14 12:44:18,099 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,099 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,099 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,099 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:44:18,099 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:44:18,099 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:44:18,105 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,105 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,105 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,105 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:44:18,105 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:44:18,105 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:44:18,105 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,105 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,105 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,105 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:44:18,105 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:44:18,105 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:44:18,105 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,105 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,105 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,105 - workflow_logger - ERROR - [RESOLUTION_ATTEMPT] Error occurred: workflow_execution - 'RetrievalResult' object has no attribute 'confidence_score'
+2025-08-14 12:44:18,105 - workflow_logger - ERROR - [RESOLUTION_ATTEMPT] Error occurred: workflow_execution - 'RetrievalResult' object has no attribute 'confidence_score'
+2025-08-14 12:44:18,105 - workflow_logger - ERROR - [RESOLUTION_ATTEMPT] Error occurred: workflow_execution - 'RetrievalResult' object has no attribute 'confidence_score'
+2025-08-14 12:44:18,106 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,106 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,106 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,106 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: error
+2025-08-14 12:44:18,106 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: error
+2025-08-14 12:44:18,106 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: error
+2025-08-14 12:44:18,233 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,233 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,233 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,233 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,233 - workflow_logger - INFO - [SUBMISSION] Ticket session started for LOG-TEST-001
+2025-08-14 12:44:18,233 - workflow_logger - INFO - [SUBMISSION] Ticket session started for LOG-TEST-001
+2025-08-14 12:44:18,233 - workflow_logger - INFO - [SUBMISSION] Ticket session started for LOG-TEST-001
+2025-08-14 12:44:18,233 - workflow_logger - INFO - [SUBMISSION] Ticket session started for LOG-TEST-001
+2025-08-14 12:44:18,234 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,234 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,234 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,234 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,234 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:44:18,234 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:44:18,234 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:44:18,234 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:44:18,263 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,263 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,263 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,263 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,263 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:44:18,263 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:44:18,263 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:44:18,263 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:44:18,263 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,263 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,263 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,263 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,263 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:44:18,263 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:44:18,263 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:44:18,263 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:44:18,265 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,265 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,265 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,265 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,266 - workflow_logger - ERROR - [RESOLUTION_ATTEMPT] Error occurred: workflow_execution - 'RetrievalResult' object has no attribute 'confidence_score'
+2025-08-14 12:44:18,266 - workflow_logger - ERROR - [RESOLUTION_ATTEMPT] Error occurred: workflow_execution - 'RetrievalResult' object has no attribute 'confidence_score'
+2025-08-14 12:44:18,266 - workflow_logger - ERROR - [RESOLUTION_ATTEMPT] Error occurred: workflow_execution - 'RetrievalResult' object has no attribute 'confidence_score'
+2025-08-14 12:44:18,266 - workflow_logger - ERROR - [RESOLUTION_ATTEMPT] Error occurred: workflow_execution - 'RetrievalResult' object has no attribute 'confidence_score'
+2025-08-14 12:44:18,266 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,266 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,266 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,266 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,266 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: error
+2025-08-14 12:44:18,266 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: error
+2025-08-14 12:44:18,266 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: error
+2025-08-14 12:44:18,266 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: error
+2025-08-14 12:44:18,267 - workflow_logger - ERROR - Failed to search logs: Extra data: line 1 column 5 (char 4)
+2025-08-14 12:44:18,267 - workflow_logger - ERROR - Failed to search logs: Extra data: line 1 column 5 (char 4)
+2025-08-14 12:44:18,267 - workflow_logger - ERROR - Failed to search logs: Extra data: line 1 column 5 (char 4)
+2025-08-14 12:44:18,267 - workflow_logger - ERROR - Failed to search logs: Extra data: line 1 column 5 (char 4)
+2025-08-14 12:44:18,267 - workflow_logger - ERROR - Failed to search logs: Extra data: line 1 column 5 (char 4)
+2025-08-14 12:44:18,267 - workflow_logger - ERROR - Failed to search logs: Extra data: line 1 column 5 (char 4)
+2025-08-14 12:44:18,267 - workflow_logger - ERROR - Failed to search logs: Extra data: line 1 column 5 (char 4)
+2025-08-14 12:44:18,267 - workflow_logger - ERROR - Failed to search logs: Extra data: line 1 column 5 (char 4)
+2025-08-14 12:44:18,267 - workflow_logger - ERROR - Failed to search logs: Extra data: line 1 column 5 (char 4)
+2025-08-14 12:44:18,267 - workflow_logger - ERROR - Failed to search logs: Extra data: line 1 column 5 (char 4)
+2025-08-14 12:44:18,267 - workflow_logger - ERROR - Failed to search logs: Extra data: line 1 column 5 (char 4)
+2025-08-14 12:44:18,267 - workflow_logger - ERROR - Failed to search logs: Extra data: line 1 column 5 (char 4)
+2025-08-14 12:44:18,267 - workflow_logger - ERROR - Failed to search logs: Extra data: line 1 column 5 (char 4)
+2025-08-14 12:44:18,267 - workflow_logger - ERROR - Failed to search logs: Extra data: line 1 column 5 (char 4)
+2025-08-14 12:44:18,267 - workflow_logger - ERROR - Failed to search logs: Extra data: line 1 column 5 (char 4)
+2025-08-14 12:44:18,267 - workflow_logger - ERROR - Failed to search logs: Extra data: line 1 column 5 (char 4)
+2025-08-14 12:44:18,304 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,304 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,304 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,304 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,304 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,305 - workflow_logger - INFO - [SUBMISSION] Ticket session started for TOOL-001
+2025-08-14 12:44:18,305 - workflow_logger - INFO - [SUBMISSION] Ticket session started for TOOL-001
+2025-08-14 12:44:18,305 - workflow_logger - INFO - [SUBMISSION] Ticket session started for TOOL-001
+2025-08-14 12:44:18,305 - workflow_logger - INFO - [SUBMISSION] Ticket session started for TOOL-001
+2025-08-14 12:44:18,305 - workflow_logger - INFO - [SUBMISSION] Ticket session started for TOOL-001
+2025-08-14 12:44:18,305 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,305 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,305 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,305 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,305 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,305 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:44:18,305 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:44:18,305 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:44:18,305 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:44:18,305 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:44:18,318 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,318 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,318 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,318 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,318 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,318 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:44:18,318 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:44:18,318 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:44:18,318 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:44:18,318 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:44:18,318 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,318 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,318 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,318 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,318 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,318 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:44:18,318 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:44:18,318 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:44:18,318 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:44:18,318 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:44:18,318 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,318 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,318 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,318 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,318 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,319 - workflow_logger - ERROR - [RESOLUTION_ATTEMPT] Error occurred: workflow_execution - 'RetrievalResult' object has no attribute 'confidence_score'
+2025-08-14 12:44:18,319 - workflow_logger - ERROR - [RESOLUTION_ATTEMPT] Error occurred: workflow_execution - 'RetrievalResult' object has no attribute 'confidence_score'
+2025-08-14 12:44:18,319 - workflow_logger - ERROR - [RESOLUTION_ATTEMPT] Error occurred: workflow_execution - 'RetrievalResult' object has no attribute 'confidence_score'
+2025-08-14 12:44:18,319 - workflow_logger - ERROR - [RESOLUTION_ATTEMPT] Error occurred: workflow_execution - 'RetrievalResult' object has no attribute 'confidence_score'
+2025-08-14 12:44:18,319 - workflow_logger - ERROR - [RESOLUTION_ATTEMPT] Error occurred: workflow_execution - 'RetrievalResult' object has no attribute 'confidence_score'
+2025-08-14 12:44:18,319 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,319 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,319 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,319 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,319 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,319 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: error
+2025-08-14 12:44:18,319 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: error
+2025-08-14 12:44:18,319 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: error
+2025-08-14 12:44:18,319 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: error
+2025-08-14 12:44:18,319 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: error
+2025-08-14 12:44:18,319 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,319 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,319 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,319 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,319 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,319 - workflow_logger - INFO - [SUBMISSION] Ticket session started for TOOL-002
+2025-08-14 12:44:18,319 - workflow_logger - INFO - [SUBMISSION] Ticket session started for TOOL-002
+2025-08-14 12:44:18,319 - workflow_logger - INFO - [SUBMISSION] Ticket session started for TOOL-002
+2025-08-14 12:44:18,319 - workflow_logger - INFO - [SUBMISSION] Ticket session started for TOOL-002
+2025-08-14 12:44:18,319 - workflow_logger - INFO - [SUBMISSION] Ticket session started for TOOL-002
+2025-08-14 12:44:18,319 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,319 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,319 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,319 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,319 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,319 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:44:18,319 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:44:18,319 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:44:18,319 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:44:18,319 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:44:18,325 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,325 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,325 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,325 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,325 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,326 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:44:18,326 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:44:18,326 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:44:18,326 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:44:18,326 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:44:18,326 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,326 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,326 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,326 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,326 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,326 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:44:18,326 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:44:18,326 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:44:18,326 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:44:18,326 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:44:18,327 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,327 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,327 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,327 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,327 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,327 - workflow_logger - ERROR - [RESOLUTION_ATTEMPT] Error occurred: workflow_execution - 'RetrievalResult' object has no attribute 'confidence_score'
+2025-08-14 12:44:18,327 - workflow_logger - ERROR - [RESOLUTION_ATTEMPT] Error occurred: workflow_execution - 'RetrievalResult' object has no attribute 'confidence_score'
+2025-08-14 12:44:18,327 - workflow_logger - ERROR - [RESOLUTION_ATTEMPT] Error occurred: workflow_execution - 'RetrievalResult' object has no attribute 'confidence_score'
+2025-08-14 12:44:18,327 - workflow_logger - ERROR - [RESOLUTION_ATTEMPT] Error occurred: workflow_execution - 'RetrievalResult' object has no attribute 'confidence_score'
+2025-08-14 12:44:18,327 - workflow_logger - ERROR - [RESOLUTION_ATTEMPT] Error occurred: workflow_execution - 'RetrievalResult' object has no attribute 'confidence_score'
+2025-08-14 12:44:18,327 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,327 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,327 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,327 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,327 - workflow_logger - ERROR - Failed to write log entry: Object of type LogEntryType is not JSON serializable
+2025-08-14 12:44:18,327 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: error
+2025-08-14 12:44:18,327 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: error
+2025-08-14 12:44:18,327 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: error
+2025-08-14 12:44:18,327 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: error
+2025-08-14 12:44:18,327 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: error
+{"log_id": "log_b5177198", "timestamp": "2025-08-14T12:45:01.400921", "ticket_id": "TICKET-001", "user_id": "user-001", "entry_type": "ticket_submission", "stage": "submission", "level": "INFO", "message": "Ticket session started for TICKET-001", "data": {"ticket_id": "TICKET-001", "user_id": "user-001", "initial_query": "I can't log into my account. It says my password is incorrect.", "session_start": "2025-08-14T12:45:01.400896"}, "metadata": {"session_id": "session_TICKET-001", "log_version": "1.0"}}
+2025-08-14 12:45:01,401 - workflow_logger - INFO - [SUBMISSION] Ticket session started for TICKET-001
+{"log_id": "log_c22d5a56", "timestamp": "2025-08-14T12:45:01.401267", "ticket_id": "TICKET-001", "user_id": "user-001", "entry_type": "workflow_stage", "stage": "submission", "level": "INFO", "message": "Workflow stage: submission", "data": {"stage": "submission", "stage_data": {}, "timestamp": "2025-08-14T12:45:01.401258"}, "metadata": {"session_id": "session_TICKET-001", "log_version": "1.0"}}
+2025-08-14 12:45:01,401 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:45:01,418 - workflow_logger - ERROR - Failed to write log entry: Object of type datetime is not JSON serializable
+2025-08-14 12:45:01,418 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+{"log_id": "log_0c950c3a", "timestamp": "2025-08-14T12:45:01.418193", "ticket_id": "TICKET-001", "user_id": "user-001", "entry_type": "workflow_stage", "stage": "classification", "level": "INFO", "message": "Workflow stage: classification", "data": {"stage": "classification", "stage_data": {}, "timestamp": "2025-08-14T12:45:01.418185"}, "metadata": {"session_id": "session_TICKET-001", "log_version": "1.0"}}
+2025-08-14 12:45:01,418 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+{"log_id": "log_dc95508c", "timestamp": "2025-08-14T12:45:01.418786", "ticket_id": "TICKET-001", "user_id": "user-001", "entry_type": "knowledge_retrieval", "stage": "knowledge_retrieval", "level": "INFO", "message": "Knowledge retrieval: 3 articles found, confidence: low", "data": {"query": "I can't log into my account. It says my password is incorrect.", "articles_found": 3, "confidence": "low", "escalation_required": false, "timestamp": "2025-08-14T12:45:01.418780"}, "metadata": {"session_id": "session_TICKET-001", "log_version": "1.0"}}
+2025-08-14 12:45:01,418 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Knowledge retrieval: 3 articles found, confidence: low
+{"log_id": "log_b6c660b3", "timestamp": "2025-08-14T12:45:01.418877", "ticket_id": "TICKET-001", "user_id": "user-001", "entry_type": "workflow_stage", "stage": "knowledge_retrieval", "level": "INFO", "message": "Workflow stage: knowledge_retrieval", "data": {"stage": "knowledge_retrieval", "stage_data": {}, "timestamp": "2025-08-14T12:45:01.418871"}, "metadata": {"session_id": "session_TICKET-001", "log_version": "1.0"}}
+2025-08-14 12:45:01,418 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Workflow stage: knowledge_retrieval
+{"log_id": "log_1f88630d", "timestamp": "2025-08-14T12:45:03.705518", "ticket_id": "TICKET-001", "user_id": "user-001", "entry_type": "routing_choice", "stage": "routing", "level": "INFO", "message": "Routed from supervisor to account: Category: account, Complexity: simple", "data": {"from_agent": "supervisor", "to_agent": "account", "reason": "Category: account, Complexity: simple", "routing_data": {}, "timestamp": "2025-08-14T12:45:03.705489"}, "metadata": {"session_id": "session_TICKET-001", "log_version": "1.0"}}
+2025-08-14 12:45:03,705 - workflow_logger - INFO - [ROUTING] Routed from supervisor to account: Category: account, Complexity: simple
+{"log_id": "log_0a4eb032", "timestamp": "2025-08-14T12:45:03.705997", "ticket_id": "TICKET-001", "user_id": "user-001", "entry_type": "workflow_stage", "stage": "routing", "level": "INFO", "message": "Workflow stage: routing", "data": {"stage": "routing", "stage_data": {}, "timestamp": "2025-08-14T12:45:03.705984"}, "metadata": {"session_id": "session_TICKET-001", "log_version": "1.0"}}
+2025-08-14 12:45:03,706 - workflow_logger - INFO - [ROUTING] Workflow stage: routing
+{"log_id": "log_93543c2f", "timestamp": "2025-08-14T12:45:03.711173", "ticket_id": "TICKET-001", "user_id": "user-001", "entry_type": "resolution_attempt", "stage": "completion", "level": "INFO", "message": "Ticket completed with status: resolved", "data": {"final_status": "resolved", "resolution_summary": "Processed by 1 agents", "total_duration_seconds": 0.0, "timestamp": "2025-08-14T12:45:03.711160"}, "metadata": {"session_id": "session_TICKET-001", "log_version": "1.0"}}
+2025-08-14 12:45:03,711 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: resolved
+{"log_id": "log_711b0c23", "timestamp": "2025-08-14T12:45:03.711618", "ticket_id": "TICKET-002", "user_id": "user-002", "entry_type": "ticket_submission", "stage": "submission", "level": "INFO", "message": "Ticket session started for TICKET-002", "data": {"ticket_id": "TICKET-002", "user_id": "user-002", "initial_query": "I want to cancel my premium subscription and get a refund for this month.", "session_start": "2025-08-14T12:45:03.711606"}, "metadata": {"session_id": "session_TICKET-002", "log_version": "1.0"}}
+2025-08-14 12:45:03,711 - workflow_logger - INFO - [SUBMISSION] Ticket session started for TICKET-002
+{"log_id": "log_e6d5eca4", "timestamp": "2025-08-14T12:45:03.711796", "ticket_id": "TICKET-002", "user_id": "user-002", "entry_type": "workflow_stage", "stage": "submission", "level": "INFO", "message": "Workflow stage: submission", "data": {"stage": "submission", "stage_data": {}, "timestamp": "2025-08-14T12:45:03.711785"}, "metadata": {"session_id": "session_TICKET-002", "log_version": "1.0"}}
+2025-08-14 12:45:03,712 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:45:03,718 - workflow_logger - ERROR - Failed to write log entry: Object of type datetime is not JSON serializable
+2025-08-14 12:45:03,718 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+{"log_id": "log_07c86c3c", "timestamp": "2025-08-14T12:45:03.718894", "ticket_id": "TICKET-002", "user_id": "user-002", "entry_type": "workflow_stage", "stage": "classification", "level": "INFO", "message": "Workflow stage: classification", "data": {"stage": "classification", "stage_data": {}, "timestamp": "2025-08-14T12:45:03.718884"}, "metadata": {"session_id": "session_TICKET-002", "log_version": "1.0"}}
+2025-08-14 12:45:03,718 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+{"log_id": "log_c3154809", "timestamp": "2025-08-14T12:45:03.720058", "ticket_id": "TICKET-002", "user_id": "user-002", "entry_type": "knowledge_retrieval", "stage": "knowledge_retrieval", "level": "INFO", "message": "Knowledge retrieval: 3 articles found, confidence: low", "data": {"query": "I want to cancel my premium subscription and get a refund for this month.", "articles_found": 3, "confidence": "low", "escalation_required": false, "timestamp": "2025-08-14T12:45:03.720040"}, "metadata": {"session_id": "session_TICKET-002", "log_version": "1.0"}}
+2025-08-14 12:45:03,720 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Knowledge retrieval: 3 articles found, confidence: low
+{"log_id": "log_9223ef41", "timestamp": "2025-08-14T12:45:03.720286", "ticket_id": "TICKET-002", "user_id": "user-002", "entry_type": "workflow_stage", "stage": "knowledge_retrieval", "level": "INFO", "message": "Workflow stage: knowledge_retrieval", "data": {"stage": "knowledge_retrieval", "stage_data": {}, "timestamp": "2025-08-14T12:45:03.720273"}, "metadata": {"session_id": "session_TICKET-002", "log_version": "1.0"}}
+2025-08-14 12:45:03,720 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Workflow stage: knowledge_retrieval
+{"log_id": "log_7d02e9b0", "timestamp": "2025-08-14T12:45:05.508757", "ticket_id": "TICKET-002", "user_id": "user-002", "entry_type": "routing_choice", "stage": "routing", "level": "INFO", "message": "Routed from supervisor to billing: Category: billing, Complexity: simple", "data": {"from_agent": "supervisor", "to_agent": "billing", "reason": "Category: billing, Complexity: simple", "routing_data": {}, "timestamp": "2025-08-14T12:45:05.508725"}, "metadata": {"session_id": "session_TICKET-002", "log_version": "1.0"}}
+2025-08-14 12:45:05,509 - workflow_logger - INFO - [ROUTING] Routed from supervisor to billing: Category: billing, Complexity: simple
+{"log_id": "log_72e12819", "timestamp": "2025-08-14T12:45:05.509454", "ticket_id": "TICKET-002", "user_id": "user-002", "entry_type": "workflow_stage", "stage": "routing", "level": "INFO", "message": "Workflow stage: routing", "data": {"stage": "routing", "stage_data": {}, "timestamp": "2025-08-14T12:45:05.509413"}, "metadata": {"session_id": "session_TICKET-002", "log_version": "1.0"}}
+2025-08-14 12:45:05,509 - workflow_logger - INFO - [ROUTING] Workflow stage: routing
+{"log_id": "log_c8cdf0a3", "timestamp": "2025-08-14T12:45:05.515557", "ticket_id": "TICKET-002", "user_id": "user-002", "entry_type": "resolution_attempt", "stage": "completion", "level": "INFO", "message": "Ticket completed with status: resolved", "data": {"final_status": "resolved", "resolution_summary": "Processed by 1 agents", "total_duration_seconds": 0.0, "timestamp": "2025-08-14T12:45:05.515540"}, "metadata": {"session_id": "session_TICKET-002", "log_version": "1.0"}}
+2025-08-14 12:45:05,515 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: resolved
+{"log_id": "log_0e245385", "timestamp": "2025-08-14T12:45:05.515964", "ticket_id": "TICKET-003", "user_id": "user-003", "entry_type": "ticket_submission", "stage": "submission", "level": "INFO", "message": "Ticket session started for TICKET-003", "data": {"ticket_id": "TICKET-003", "user_id": "user-003", "initial_query": "How do I change my account email address and transfer my subscription?", "session_start": "2025-08-14T12:45:05.515948"}, "metadata": {"session_id": "session_TICKET-003", "log_version": "1.0"}}
+2025-08-14 12:45:05,516 - workflow_logger - INFO - [SUBMISSION] Ticket session started for TICKET-003
+{"log_id": "log_c9b35b9d", "timestamp": "2025-08-14T12:45:05.516195", "ticket_id": "TICKET-003", "user_id": "user-003", "entry_type": "workflow_stage", "stage": "submission", "level": "INFO", "message": "Workflow stage: submission", "data": {"stage": "submission", "stage_data": {}, "timestamp": "2025-08-14T12:45:05.516180"}, "metadata": {"session_id": "session_TICKET-003", "log_version": "1.0"}}
+2025-08-14 12:45:05,516 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:45:05,525 - workflow_logger - ERROR - Failed to write log entry: Object of type datetime is not JSON serializable
+2025-08-14 12:45:05,525 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+{"log_id": "log_65b98ed6", "timestamp": "2025-08-14T12:45:05.525785", "ticket_id": "TICKET-003", "user_id": "user-003", "entry_type": "workflow_stage", "stage": "classification", "level": "INFO", "message": "Workflow stage: classification", "data": {"stage": "classification", "stage_data": {}, "timestamp": "2025-08-14T12:45:05.525767"}, "metadata": {"session_id": "session_TICKET-003", "log_version": "1.0"}}
+2025-08-14 12:45:05,525 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+{"log_id": "log_0d5be751", "timestamp": "2025-08-14T12:45:05.527091", "ticket_id": "TICKET-003", "user_id": "user-003", "entry_type": "knowledge_retrieval", "stage": "knowledge_retrieval", "level": "INFO", "message": "Knowledge retrieval: 3 articles found, confidence: medium", "data": {"query": "How do I change my account email address and transfer my subscription?", "articles_found": 3, "confidence": "medium", "escalation_required": false, "timestamp": "2025-08-14T12:45:05.527074"}, "metadata": {"session_id": "session_TICKET-003", "log_version": "1.0"}}
+2025-08-14 12:45:05,527 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Knowledge retrieval: 3 articles found, confidence: medium
+{"log_id": "log_f741ab11", "timestamp": "2025-08-14T12:45:05.527345", "ticket_id": "TICKET-003", "user_id": "user-003", "entry_type": "workflow_stage", "stage": "knowledge_retrieval", "level": "INFO", "message": "Workflow stage: knowledge_retrieval", "data": {"stage": "knowledge_retrieval", "stage_data": {}, "timestamp": "2025-08-14T12:45:05.527333"}, "metadata": {"session_id": "session_TICKET-003", "log_version": "1.0"}}
+2025-08-14 12:45:05,527 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Workflow stage: knowledge_retrieval
+{"log_id": "log_43bdd3d4", "timestamp": "2025-08-14T12:45:07.265371", "ticket_id": "TICKET-003", "user_id": "user-003", "entry_type": "routing_choice", "stage": "routing", "level": "INFO", "message": "Routed from supervisor to account: Category: account, Complexity: simple", "data": {"from_agent": "supervisor", "to_agent": "account", "reason": "Category: account, Complexity: simple", "routing_data": {}, "timestamp": "2025-08-14T12:45:07.265313"}, "metadata": {"session_id": "session_TICKET-003", "log_version": "1.0"}}
+2025-08-14 12:45:07,265 - workflow_logger - INFO - [ROUTING] Routed from supervisor to account: Category: account, Complexity: simple
+{"log_id": "log_9a811196", "timestamp": "2025-08-14T12:45:07.265976", "ticket_id": "TICKET-003", "user_id": "user-003", "entry_type": "workflow_stage", "stage": "routing", "level": "INFO", "message": "Workflow stage: routing", "data": {"stage": "routing", "stage_data": {}, "timestamp": "2025-08-14T12:45:07.265956"}, "metadata": {"session_id": "session_TICKET-003", "log_version": "1.0"}}
+2025-08-14 12:45:07,266 - workflow_logger - INFO - [ROUTING] Workflow stage: routing
+{"log_id": "log_f1688d7a", "timestamp": "2025-08-14T12:45:07.271751", "ticket_id": "TICKET-003", "user_id": "user-003", "entry_type": "resolution_attempt", "stage": "completion", "level": "INFO", "message": "Ticket completed with status: resolved", "data": {"final_status": "resolved", "resolution_summary": "Processed by 1 agents", "total_duration_seconds": 0.0, "timestamp": "2025-08-14T12:45:07.271734"}, "metadata": {"session_id": "session_TICKET-003", "log_version": "1.0"}}
+2025-08-14 12:45:07,271 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: resolved
+{"log_id": "log_c3b80112", "timestamp": "2025-08-14T12:45:07.338184", "ticket_id": "TICKET-005", "user_id": "user-005", "entry_type": "ticket_submission", "stage": "submission", "level": "INFO", "message": "Ticket session started for TICKET-005", "data": {"ticket_id": "TICKET-005", "user_id": "user-005", "initial_query": "I have a very complex legal issue with my account that involves multiple departments and requires immediate human intervention.", "session_start": "2025-08-14T12:45:07.338159"}, "metadata": {"session_id": "session_TICKET-005", "log_version": "1.0"}}
+2025-08-14 12:45:07,338 - workflow_logger - INFO - [SUBMISSION] Ticket session started for TICKET-005
+2025-08-14 12:45:07,338 - workflow_logger - INFO - [SUBMISSION] Ticket session started for TICKET-005
+{"log_id": "log_80b77fb3", "timestamp": "2025-08-14T12:45:07.338371", "ticket_id": "TICKET-005", "user_id": "user-005", "entry_type": "workflow_stage", "stage": "submission", "level": "INFO", "message": "Workflow stage: submission", "data": {"stage": "submission", "stage_data": {}, "timestamp": "2025-08-14T12:45:07.338363"}, "metadata": {"session_id": "session_TICKET-005", "log_version": "1.0"}}
+2025-08-14 12:45:07,338 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:45:07,338 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:45:07,346 - workflow_logger - ERROR - Failed to write log entry: Object of type datetime is not JSON serializable
+2025-08-14 12:45:07,346 - workflow_logger - ERROR - Failed to write log entry: Object of type datetime is not JSON serializable
+2025-08-14 12:45:07,346 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:45:07,346 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+{"log_id": "log_e1a2d4ca", "timestamp": "2025-08-14T12:45:07.346503", "ticket_id": "TICKET-005", "user_id": "user-005", "entry_type": "workflow_stage", "stage": "classification", "level": "INFO", "message": "Workflow stage: classification", "data": {"stage": "classification", "stage_data": {}, "timestamp": "2025-08-14T12:45:07.346495"}, "metadata": {"session_id": "session_TICKET-005", "log_version": "1.0"}}
+2025-08-14 12:45:07,346 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:45:07,346 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+{"log_id": "log_caa6472a", "timestamp": "2025-08-14T12:45:07.347191", "ticket_id": "TICKET-005", "user_id": "user-005", "entry_type": "knowledge_retrieval", "stage": "knowledge_retrieval", "level": "INFO", "message": "Knowledge retrieval: 3 articles found, confidence: none", "data": {"query": "I have a very complex legal issue with my account that involves multiple departments and requires immediate human intervention.", "articles_found": 3, "confidence": "none", "escalation_required": true, "timestamp": "2025-08-14T12:45:07.347183"}, "metadata": {"session_id": "session_TICKET-005", "log_version": "1.0"}}
+2025-08-14 12:45:07,347 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Knowledge retrieval: 3 articles found, confidence: none
+2025-08-14 12:45:07,347 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Knowledge retrieval: 3 articles found, confidence: none
+{"log_id": "log_8fb09d54", "timestamp": "2025-08-14T12:45:07.347302", "ticket_id": "TICKET-005", "user_id": "user-005", "entry_type": "workflow_stage", "stage": "knowledge_retrieval", "level": "INFO", "message": "Workflow stage: knowledge_retrieval", "data": {"stage": "knowledge_retrieval", "stage_data": {}, "timestamp": "2025-08-14T12:45:07.347296"}, "metadata": {"session_id": "session_TICKET-005", "log_version": "1.0"}}
+2025-08-14 12:45:07,347 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Workflow stage: knowledge_retrieval
+2025-08-14 12:45:07,347 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Workflow stage: knowledge_retrieval
+{"log_id": "log_fc4ae220", "timestamp": "2025-08-14T12:45:09.538700", "ticket_id": "TICKET-005", "user_id": "user-005", "entry_type": "escalation", "stage": "escalation", "level": "WARNING", "message": "Ticket escalated: Low confidence or complex issue", "data": {"reason": "Low confidence or complex issue", "escalation_type": "automatic", "details": {"routing_confidence": 0.0, "knowledge_confidence": "none"}, "timestamp": "2025-08-14T12:45:09.538649"}, "metadata": {"session_id": "session_TICKET-005", "log_version": "1.0"}}
+2025-08-14 12:45:09,539 - workflow_logger - WARNING - [ESCALATION] Ticket escalated: Low confidence or complex issue
+2025-08-14 12:45:09,539 - workflow_logger - WARNING - [ESCALATION] Ticket escalated: Low confidence or complex issue
+{"log_id": "log_8dff4793", "timestamp": "2025-08-14T12:45:09.539462", "ticket_id": "TICKET-005", "user_id": "user-005", "entry_type": "workflow_stage", "stage": "escalation", "level": "INFO", "message": "Workflow stage: escalation", "data": {"stage": "escalation", "stage_data": {}, "timestamp": "2025-08-14T12:45:09.539433"}, "metadata": {"session_id": "session_TICKET-005", "log_version": "1.0"}}
+2025-08-14 12:45:09,539 - workflow_logger - INFO - [ESCALATION] Workflow stage: escalation
+2025-08-14 12:45:09,539 - workflow_logger - INFO - [ESCALATION] Workflow stage: escalation
+{"log_id": "log_3ccc4d5e", "timestamp": "2025-08-14T12:45:09.540677", "ticket_id": "TICKET-005", "user_id": "user-005", "entry_type": "routing_choice", "stage": "routing", "level": "INFO", "message": "Routed from supervisor to escalation: Escalation required", "data": {"from_agent": "supervisor", "to_agent": "escalation", "reason": "Escalation required", "routing_data": {}, "timestamp": "2025-08-14T12:45:09.540650"}, "metadata": {"session_id": "session_TICKET-005", "log_version": "1.0"}}
+2025-08-14 12:45:09,541 - workflow_logger - INFO - [ROUTING] Routed from supervisor to escalation: Escalation required
+2025-08-14 12:45:09,541 - workflow_logger - INFO - [ROUTING] Routed from supervisor to escalation: Escalation required
+{"log_id": "log_6be1e228", "timestamp": "2025-08-14T12:45:09.541197", "ticket_id": "TICKET-005", "user_id": "user-005", "entry_type": "workflow_stage", "stage": "routing", "level": "INFO", "message": "Workflow stage: routing", "data": {"stage": "routing", "stage_data": {}, "timestamp": "2025-08-14T12:45:09.541174"}, "metadata": {"session_id": "session_TICKET-005", "log_version": "1.0"}}
+2025-08-14 12:45:09,541 - workflow_logger - INFO - [ROUTING] Workflow stage: routing
+2025-08-14 12:45:09,541 - workflow_logger - INFO - [ROUTING] Workflow stage: routing
+{"log_id": "log_1a7679b9", "timestamp": "2025-08-14T12:45:09.543383", "ticket_id": "TICKET-005", "user_id": "user-005", "entry_type": "resolution_attempt", "stage": "completion", "level": "INFO", "message": "Ticket completed with status: escalated", "data": {"final_status": "escalated", "resolution_summary": "Processed by 1 agents", "total_duration_seconds": 0.0, "timestamp": "2025-08-14T12:45:09.543362"}, "metadata": {"session_id": "session_TICKET-005", "log_version": "1.0"}}
+2025-08-14 12:45:09,543 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: escalated
+2025-08-14 12:45:09,543 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: escalated
+{"log_id": "log_cc7ebaa3", "timestamp": "2025-08-14T12:45:09.609783", "ticket_id": "ERROR-001", "user_id": "user-error-001", "entry_type": "ticket_submission", "stage": "submission", "level": "INFO", "message": "Ticket session started for ERROR-001", "data": {"ticket_id": "ERROR-001", "user_id": "user-error-001", "initial_query": "", "session_start": "2025-08-14T12:45:09.609760"}, "metadata": {"session_id": "session_ERROR-001", "log_version": "1.0"}}
+2025-08-14 12:45:09,609 - workflow_logger - INFO - [SUBMISSION] Ticket session started for ERROR-001
+2025-08-14 12:45:09,609 - workflow_logger - INFO - [SUBMISSION] Ticket session started for ERROR-001
+2025-08-14 12:45:09,609 - workflow_logger - INFO - [SUBMISSION] Ticket session started for ERROR-001
+{"log_id": "log_f8710a7a", "timestamp": "2025-08-14T12:45:09.609986", "ticket_id": "ERROR-001", "user_id": "user-error-001", "entry_type": "workflow_stage", "stage": "submission", "level": "INFO", "message": "Workflow stage: submission", "data": {"stage": "submission", "stage_data": {}, "timestamp": "2025-08-14T12:45:09.609979"}, "metadata": {"session_id": "session_ERROR-001", "log_version": "1.0"}}
+2025-08-14 12:45:09,610 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:45:09,610 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:45:09,610 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+{"log_id": "log_72ee869e", "timestamp": "2025-08-14T12:45:09.611002", "ticket_id": "ERROR-001", "user_id": "user-error-001", "entry_type": "routing_choice", "stage": "routing", "level": "INFO", "message": "Routed from supervisor to knowledge_base: Category: general, Complexity: moderate", "data": {"from_agent": "supervisor", "to_agent": "knowledge_base", "reason": "Category: general, Complexity: moderate", "routing_data": {}, "timestamp": "2025-08-14T12:45:09.610996"}, "metadata": {"session_id": "session_ERROR-001", "log_version": "1.0"}}
+2025-08-14 12:45:09,611 - workflow_logger - INFO - [ROUTING] Routed from supervisor to knowledge_base: Category: general, Complexity: moderate
+2025-08-14 12:45:09,611 - workflow_logger - INFO - [ROUTING] Routed from supervisor to knowledge_base: Category: general, Complexity: moderate
+2025-08-14 12:45:09,611 - workflow_logger - INFO - [ROUTING] Routed from supervisor to knowledge_base: Category: general, Complexity: moderate
+{"log_id": "log_e3964949", "timestamp": "2025-08-14T12:45:09.611151", "ticket_id": "ERROR-001", "user_id": "user-error-001", "entry_type": "workflow_stage", "stage": "routing", "level": "INFO", "message": "Workflow stage: routing", "data": {"stage": "routing", "stage_data": {}, "timestamp": "2025-08-14T12:45:09.611145"}, "metadata": {"session_id": "session_ERROR-001", "log_version": "1.0"}}
+2025-08-14 12:45:09,611 - workflow_logger - INFO - [ROUTING] Workflow stage: routing
+2025-08-14 12:45:09,611 - workflow_logger - INFO - [ROUTING] Workflow stage: routing
+2025-08-14 12:45:09,611 - workflow_logger - INFO - [ROUTING] Workflow stage: routing
+{"log_id": "log_eeb1bd61", "timestamp": "2025-08-14T12:45:09.612017", "ticket_id": "ERROR-001", "user_id": "user-error-001", "entry_type": "resolution_attempt", "stage": "completion", "level": "INFO", "message": "Ticket completed with status: resolved", "data": {"final_status": "resolved", "resolution_summary": "Processed by 0 agents", "total_duration_seconds": 0.0, "timestamp": "2025-08-14T12:45:09.612011"}, "metadata": {"session_id": "session_ERROR-001", "log_version": "1.0"}}
+2025-08-14 12:45:09,612 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: resolved
+2025-08-14 12:45:09,612 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: resolved
+2025-08-14 12:45:09,612 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: resolved
+{"log_id": "log_dfc45d2e", "timestamp": "2025-08-14T12:45:09.612158", "ticket_id": "ERROR-002", "user_id": "user-error-002", "entry_type": "ticket_submission", "stage": "submission", "level": "INFO", "message": "Ticket session started for ERROR-002", "data": {"ticket_id": "ERROR-002", "user_id": "user-error-002", "initial_query": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx", "session_start": "2025-08-14T12:45:09.612152"}, "metadata": {"session_id": "session_ERROR-002", "log_version": "1.0"}}
+2025-08-14 12:45:09,612 - workflow_logger - INFO - [SUBMISSION] Ticket session started for ERROR-002
+2025-08-14 12:45:09,612 - workflow_logger - INFO - [SUBMISSION] Ticket session started for ERROR-002
+2025-08-14 12:45:09,612 - workflow_logger - INFO - [SUBMISSION] Ticket session started for ERROR-002
+{"log_id": "log_819b3842", "timestamp": "2025-08-14T12:45:09.612522", "ticket_id": "ERROR-002", "user_id": "user-error-002", "entry_type": "workflow_stage", "stage": "submission", "level": "INFO", "message": "Workflow stage: submission", "data": {"stage": "submission", "stage_data": {}, "timestamp": "2025-08-14T12:45:09.612512"}, "metadata": {"session_id": "session_ERROR-002", "log_version": "1.0"}}
+2025-08-14 12:45:09,612 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:45:09,612 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:45:09,612 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:45:09,620 - workflow_logger - ERROR - Failed to write log entry: Object of type datetime is not JSON serializable
+2025-08-14 12:45:09,620 - workflow_logger - ERROR - Failed to write log entry: Object of type datetime is not JSON serializable
+2025-08-14 12:45:09,620 - workflow_logger - ERROR - Failed to write log entry: Object of type datetime is not JSON serializable
+2025-08-14 12:45:09,620 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:45:09,620 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:45:09,620 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+{"log_id": "log_25e8ae2d", "timestamp": "2025-08-14T12:45:09.620536", "ticket_id": "ERROR-002", "user_id": "user-error-002", "entry_type": "workflow_stage", "stage": "classification", "level": "INFO", "message": "Workflow stage: classification", "data": {"stage": "classification", "stage_data": {}, "timestamp": "2025-08-14T12:45:09.620528"}, "metadata": {"session_id": "session_ERROR-002", "log_version": "1.0"}}
+2025-08-14 12:45:09,620 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:45:09,620 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:45:09,620 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+{"log_id": "log_e00f944c", "timestamp": "2025-08-14T12:45:09.621160", "ticket_id": "ERROR-002", "user_id": "user-error-002", "entry_type": "knowledge_retrieval", "stage": "knowledge_retrieval", "level": "INFO", "message": "Knowledge retrieval: 3 articles found, confidence: none", "data": {"query": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx", "articles_found": 3, "confidence": "none", "escalation_required": true, "timestamp": "2025-08-14T12:45:09.621152"}, "metadata": {"session_id": "session_ERROR-002", "log_version": "1.0"}}
+2025-08-14 12:45:09,621 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Knowledge retrieval: 3 articles found, confidence: none
+2025-08-14 12:45:09,621 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Knowledge retrieval: 3 articles found, confidence: none
+2025-08-14 12:45:09,621 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Knowledge retrieval: 3 articles found, confidence: none
+{"log_id": "log_0186733d", "timestamp": "2025-08-14T12:45:09.621277", "ticket_id": "ERROR-002", "user_id": "user-error-002", "entry_type": "workflow_stage", "stage": "knowledge_retrieval", "level": "INFO", "message": "Workflow stage: knowledge_retrieval", "data": {"stage": "knowledge_retrieval", "stage_data": {}, "timestamp": "2025-08-14T12:45:09.621272"}, "metadata": {"session_id": "session_ERROR-002", "log_version": "1.0"}}
+2025-08-14 12:45:09,621 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Workflow stage: knowledge_retrieval
+2025-08-14 12:45:09,621 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Workflow stage: knowledge_retrieval
+2025-08-14 12:45:09,621 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Workflow stage: knowledge_retrieval
+{"log_id": "log_dc7d8f98", "timestamp": "2025-08-14T12:45:10.982696", "ticket_id": "ERROR-002", "user_id": "user-error-002", "entry_type": "escalation", "stage": "escalation", "level": "WARNING", "message": "Ticket escalated: Low confidence or complex issue", "data": {"reason": "Low confidence or complex issue", "escalation_type": "automatic", "details": {"routing_confidence": 0.0, "knowledge_confidence": "none"}, "timestamp": "2025-08-14T12:45:10.982639"}, "metadata": {"session_id": "session_ERROR-002", "log_version": "1.0"}}
+2025-08-14 12:45:10,983 - workflow_logger - WARNING - [ESCALATION] Ticket escalated: Low confidence or complex issue
+2025-08-14 12:45:10,983 - workflow_logger - WARNING - [ESCALATION] Ticket escalated: Low confidence or complex issue
+2025-08-14 12:45:10,983 - workflow_logger - WARNING - [ESCALATION] Ticket escalated: Low confidence or complex issue
+{"log_id": "log_797dcd8a", "timestamp": "2025-08-14T12:45:10.983876", "ticket_id": "ERROR-002", "user_id": "user-error-002", "entry_type": "workflow_stage", "stage": "escalation", "level": "INFO", "message": "Workflow stage: escalation", "data": {"stage": "escalation", "stage_data": {}, "timestamp": "2025-08-14T12:45:10.983827"}, "metadata": {"session_id": "session_ERROR-002", "log_version": "1.0"}}
+2025-08-14 12:45:10,984 - workflow_logger - INFO - [ESCALATION] Workflow stage: escalation
+2025-08-14 12:45:10,984 - workflow_logger - INFO - [ESCALATION] Workflow stage: escalation
+2025-08-14 12:45:10,984 - workflow_logger - INFO - [ESCALATION] Workflow stage: escalation
+{"log_id": "log_ec9cb13a", "timestamp": "2025-08-14T12:45:10.985190", "ticket_id": "ERROR-002", "user_id": "user-error-002", "entry_type": "routing_choice", "stage": "routing", "level": "INFO", "message": "Routed from supervisor to escalation: Escalation required", "data": {"from_agent": "supervisor", "to_agent": "escalation", "reason": "Escalation required", "routing_data": {}, "timestamp": "2025-08-14T12:45:10.985170"}, "metadata": {"session_id": "session_ERROR-002", "log_version": "1.0"}}
+2025-08-14 12:45:10,985 - workflow_logger - INFO - [ROUTING] Routed from supervisor to escalation: Escalation required
+2025-08-14 12:45:10,985 - workflow_logger - INFO - [ROUTING] Routed from supervisor to escalation: Escalation required
+2025-08-14 12:45:10,985 - workflow_logger - INFO - [ROUTING] Routed from supervisor to escalation: Escalation required
+{"log_id": "log_bec2fa9d", "timestamp": "2025-08-14T12:45:10.985906", "ticket_id": "ERROR-002", "user_id": "user-error-002", "entry_type": "workflow_stage", "stage": "routing", "level": "INFO", "message": "Workflow stage: routing", "data": {"stage": "routing", "stage_data": {}, "timestamp": "2025-08-14T12:45:10.985869"}, "metadata": {"session_id": "session_ERROR-002", "log_version": "1.0"}}
+2025-08-14 12:45:10,986 - workflow_logger - INFO - [ROUTING] Workflow stage: routing
+2025-08-14 12:45:10,986 - workflow_logger - INFO - [ROUTING] Workflow stage: routing
+2025-08-14 12:45:10,986 - workflow_logger - INFO - [ROUTING] Workflow stage: routing
+{"log_id": "log_9262a29e", "timestamp": "2025-08-14T12:45:10.988070", "ticket_id": "ERROR-002", "user_id": "user-error-002", "entry_type": "resolution_attempt", "stage": "completion", "level": "INFO", "message": "Ticket completed with status: escalated", "data": {"final_status": "escalated", "resolution_summary": "Processed by 1 agents", "total_duration_seconds": 0.0, "timestamp": "2025-08-14T12:45:10.988054"}, "metadata": {"session_id": "session_ERROR-002", "log_version": "1.0"}}
+2025-08-14 12:45:10,988 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: escalated
+2025-08-14 12:45:10,988 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: escalated
+2025-08-14 12:45:10,988 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: escalated
+{"log_id": "log_6e945d7a", "timestamp": "2025-08-14T12:45:10.988476", "ticket_id": "ERROR-003", "user_id": "user-error-003", "entry_type": "ticket_submission", "stage": "submission", "level": "INFO", "message": "Ticket session started for ERROR-003", "data": {"ticket_id": "ERROR-003", "user_id": "user-error-003", "initial_query": "Special chars: !@#$%^&*()", "session_start": "2025-08-14T12:45:10.988461"}, "metadata": {"session_id": "session_ERROR-003", "log_version": "1.0"}}
+2025-08-14 12:45:10,988 - workflow_logger - INFO - [SUBMISSION] Ticket session started for ERROR-003
+2025-08-14 12:45:10,988 - workflow_logger - INFO - [SUBMISSION] Ticket session started for ERROR-003
+2025-08-14 12:45:10,988 - workflow_logger - INFO - [SUBMISSION] Ticket session started for ERROR-003
+{"log_id": "log_8b061dfb", "timestamp": "2025-08-14T12:45:10.988756", "ticket_id": "ERROR-003", "user_id": "user-error-003", "entry_type": "workflow_stage", "stage": "submission", "level": "INFO", "message": "Workflow stage: submission", "data": {"stage": "submission", "stage_data": {}, "timestamp": "2025-08-14T12:45:10.988743"}, "metadata": {"session_id": "session_ERROR-003", "log_version": "1.0"}}
+2025-08-14 12:45:10,989 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:45:10,989 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:45:10,989 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:45:10,998 - workflow_logger - ERROR - Failed to write log entry: Object of type datetime is not JSON serializable
+2025-08-14 12:45:10,998 - workflow_logger - ERROR - Failed to write log entry: Object of type datetime is not JSON serializable
+2025-08-14 12:45:10,998 - workflow_logger - ERROR - Failed to write log entry: Object of type datetime is not JSON serializable
+2025-08-14 12:45:10,999 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:45:10,999 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:45:10,999 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+{"log_id": "log_d299f989", "timestamp": "2025-08-14T12:45:10.999578", "ticket_id": "ERROR-003", "user_id": "user-error-003", "entry_type": "workflow_stage", "stage": "classification", "level": "INFO", "message": "Workflow stage: classification", "data": {"stage": "classification", "stage_data": {}, "timestamp": "2025-08-14T12:45:10.999486"}, "metadata": {"session_id": "session_ERROR-003", "log_version": "1.0"}}
+2025-08-14 12:45:10,999 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:45:10,999 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:45:10,999 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+{"log_id": "log_2c750096", "timestamp": "2025-08-14T12:45:11.000830", "ticket_id": "ERROR-003", "user_id": "user-error-003", "entry_type": "knowledge_retrieval", "stage": "knowledge_retrieval", "level": "INFO", "message": "Knowledge retrieval: 3 articles found, confidence: none", "data": {"query": "Special chars: !@#$%^&*()", "articles_found": 3, "confidence": "none", "escalation_required": true, "timestamp": "2025-08-14T12:45:11.000811"}, "metadata": {"session_id": "session_ERROR-003", "log_version": "1.0"}}
+2025-08-14 12:45:11,000 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Knowledge retrieval: 3 articles found, confidence: none
+2025-08-14 12:45:11,000 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Knowledge retrieval: 3 articles found, confidence: none
+2025-08-14 12:45:11,000 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Knowledge retrieval: 3 articles found, confidence: none
+{"log_id": "log_5961b972", "timestamp": "2025-08-14T12:45:11.001100", "ticket_id": "ERROR-003", "user_id": "user-error-003", "entry_type": "workflow_stage", "stage": "knowledge_retrieval", "level": "INFO", "message": "Workflow stage: knowledge_retrieval", "data": {"stage": "knowledge_retrieval", "stage_data": {}, "timestamp": "2025-08-14T12:45:11.001087"}, "metadata": {"session_id": "session_ERROR-003", "log_version": "1.0"}}
+2025-08-14 12:45:11,001 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Workflow stage: knowledge_retrieval
+2025-08-14 12:45:11,001 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Workflow stage: knowledge_retrieval
+2025-08-14 12:45:11,001 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Workflow stage: knowledge_retrieval
+{"log_id": "log_516c9643", "timestamp": "2025-08-14T12:45:12.586923", "ticket_id": "ERROR-003", "user_id": "user-error-003", "entry_type": "escalation", "stage": "escalation", "level": "WARNING", "message": "Ticket escalated: Low confidence or complex issue", "data": {"reason": "Low confidence or complex issue", "escalation_type": "automatic", "details": {"routing_confidence": 0.0, "knowledge_confidence": "none"}, "timestamp": "2025-08-14T12:45:12.586871"}, "metadata": {"session_id": "session_ERROR-003", "log_version": "1.0"}}
+2025-08-14 12:45:12,587 - workflow_logger - WARNING - [ESCALATION] Ticket escalated: Low confidence or complex issue
+2025-08-14 12:45:12,587 - workflow_logger - WARNING - [ESCALATION] Ticket escalated: Low confidence or complex issue
+2025-08-14 12:45:12,587 - workflow_logger - WARNING - [ESCALATION] Ticket escalated: Low confidence or complex issue
+{"log_id": "log_ceba11e0", "timestamp": "2025-08-14T12:45:12.587835", "ticket_id": "ERROR-003", "user_id": "user-error-003", "entry_type": "workflow_stage", "stage": "escalation", "level": "INFO", "message": "Workflow stage: escalation", "data": {"stage": "escalation", "stage_data": {}, "timestamp": "2025-08-14T12:45:12.587793"}, "metadata": {"session_id": "session_ERROR-003", "log_version": "1.0"}}
+2025-08-14 12:45:12,588 - workflow_logger - INFO - [ESCALATION] Workflow stage: escalation
+2025-08-14 12:45:12,588 - workflow_logger - INFO - [ESCALATION] Workflow stage: escalation
+2025-08-14 12:45:12,588 - workflow_logger - INFO - [ESCALATION] Workflow stage: escalation
+{"log_id": "log_a97171e8", "timestamp": "2025-08-14T12:45:12.588867", "ticket_id": "ERROR-003", "user_id": "user-error-003", "entry_type": "routing_choice", "stage": "routing", "level": "INFO", "message": "Routed from supervisor to escalation: Escalation required", "data": {"from_agent": "supervisor", "to_agent": "escalation", "reason": "Escalation required", "routing_data": {}, "timestamp": "2025-08-14T12:45:12.588847"}, "metadata": {"session_id": "session_ERROR-003", "log_version": "1.0"}}
+2025-08-14 12:45:12,589 - workflow_logger - INFO - [ROUTING] Routed from supervisor to escalation: Escalation required
+2025-08-14 12:45:12,589 - workflow_logger - INFO - [ROUTING] Routed from supervisor to escalation: Escalation required
+2025-08-14 12:45:12,589 - workflow_logger - INFO - [ROUTING] Routed from supervisor to escalation: Escalation required
+{"log_id": "log_c837602b", "timestamp": "2025-08-14T12:45:12.589285", "ticket_id": "ERROR-003", "user_id": "user-error-003", "entry_type": "workflow_stage", "stage": "routing", "level": "INFO", "message": "Workflow stage: routing", "data": {"stage": "routing", "stage_data": {}, "timestamp": "2025-08-14T12:45:12.589268"}, "metadata": {"session_id": "session_ERROR-003", "log_version": "1.0"}}
+2025-08-14 12:45:12,589 - workflow_logger - INFO - [ROUTING] Workflow stage: routing
+2025-08-14 12:45:12,589 - workflow_logger - INFO - [ROUTING] Workflow stage: routing
+2025-08-14 12:45:12,589 - workflow_logger - INFO - [ROUTING] Workflow stage: routing
+{"log_id": "log_edc9c94f", "timestamp": "2025-08-14T12:45:12.591036", "ticket_id": "ERROR-003", "user_id": "user-error-003", "entry_type": "resolution_attempt", "stage": "completion", "level": "INFO", "message": "Ticket completed with status: escalated", "data": {"final_status": "escalated", "resolution_summary": "Processed by 1 agents", "total_duration_seconds": 0.0, "timestamp": "2025-08-14T12:45:12.591021"}, "metadata": {"session_id": "session_ERROR-003", "log_version": "1.0"}}
+2025-08-14 12:45:12,591 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: escalated
+2025-08-14 12:45:12,591 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: escalated
+2025-08-14 12:45:12,591 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: escalated
+{"log_id": "log_a735c348", "timestamp": "2025-08-14T12:45:12.657393", "ticket_id": "LOG-TEST-001", "user_id": "user-log-001", "entry_type": "ticket_submission", "stage": "submission", "level": "INFO", "message": "Ticket session started for LOG-TEST-001", "data": {"ticket_id": "LOG-TEST-001", "user_id": "user-log-001", "initial_query": "I need help with my subscription billing", "session_start": "2025-08-14T12:45:12.657369"}, "metadata": {"session_id": "session_LOG-TEST-001", "log_version": "1.0"}}
+2025-08-14 12:45:12,657 - workflow_logger - INFO - [SUBMISSION] Ticket session started for LOG-TEST-001
+2025-08-14 12:45:12,657 - workflow_logger - INFO - [SUBMISSION] Ticket session started for LOG-TEST-001
+2025-08-14 12:45:12,657 - workflow_logger - INFO - [SUBMISSION] Ticket session started for LOG-TEST-001
+2025-08-14 12:45:12,657 - workflow_logger - INFO - [SUBMISSION] Ticket session started for LOG-TEST-001
+{"log_id": "log_6f7f7e25", "timestamp": "2025-08-14T12:45:12.657620", "ticket_id": "LOG-TEST-001", "user_id": "user-log-001", "entry_type": "workflow_stage", "stage": "submission", "level": "INFO", "message": "Workflow stage: submission", "data": {"stage": "submission", "stage_data": {}, "timestamp": "2025-08-14T12:45:12.657613"}, "metadata": {"session_id": "session_LOG-TEST-001", "log_version": "1.0"}}
+2025-08-14 12:45:12,657 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:45:12,657 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:45:12,657 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:45:12,657 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:45:12,664 - workflow_logger - ERROR - Failed to write log entry: Object of type datetime is not JSON serializable
+2025-08-14 12:45:12,664 - workflow_logger - ERROR - Failed to write log entry: Object of type datetime is not JSON serializable
+2025-08-14 12:45:12,664 - workflow_logger - ERROR - Failed to write log entry: Object of type datetime is not JSON serializable
+2025-08-14 12:45:12,664 - workflow_logger - ERROR - Failed to write log entry: Object of type datetime is not JSON serializable
+2025-08-14 12:45:12,664 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:45:12,664 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:45:12,664 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:45:12,664 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+{"log_id": "log_0913da8a", "timestamp": "2025-08-14T12:45:12.664956", "ticket_id": "LOG-TEST-001", "user_id": "user-log-001", "entry_type": "workflow_stage", "stage": "classification", "level": "INFO", "message": "Workflow stage: classification", "data": {"stage": "classification", "stage_data": {}, "timestamp": "2025-08-14T12:45:12.664948"}, "metadata": {"session_id": "session_LOG-TEST-001", "log_version": "1.0"}}
+2025-08-14 12:45:12,665 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:45:12,665 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:45:12,665 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:45:12,665 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+{"log_id": "log_0d0d65d1", "timestamp": "2025-08-14T12:45:12.665734", "ticket_id": "LOG-TEST-001", "user_id": "user-log-001", "entry_type": "knowledge_retrieval", "stage": "knowledge_retrieval", "level": "INFO", "message": "Knowledge retrieval: 3 articles found, confidence: low", "data": {"query": "I need help with my subscription billing", "articles_found": 3, "confidence": "low", "escalation_required": false, "timestamp": "2025-08-14T12:45:12.665723"}, "metadata": {"session_id": "session_LOG-TEST-001", "log_version": "1.0"}}
+2025-08-14 12:45:12,665 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Knowledge retrieval: 3 articles found, confidence: low
+2025-08-14 12:45:12,665 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Knowledge retrieval: 3 articles found, confidence: low
+2025-08-14 12:45:12,665 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Knowledge retrieval: 3 articles found, confidence: low
+2025-08-14 12:45:12,665 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Knowledge retrieval: 3 articles found, confidence: low
+{"log_id": "log_2c13ada0", "timestamp": "2025-08-14T12:45:12.665975", "ticket_id": "LOG-TEST-001", "user_id": "user-log-001", "entry_type": "workflow_stage", "stage": "knowledge_retrieval", "level": "INFO", "message": "Workflow stage: knowledge_retrieval", "data": {"stage": "knowledge_retrieval", "stage_data": {}, "timestamp": "2025-08-14T12:45:12.665929"}, "metadata": {"session_id": "session_LOG-TEST-001", "log_version": "1.0"}}
+2025-08-14 12:45:12,666 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Workflow stage: knowledge_retrieval
+2025-08-14 12:45:12,666 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Workflow stage: knowledge_retrieval
+2025-08-14 12:45:12,666 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Workflow stage: knowledge_retrieval
+2025-08-14 12:45:12,666 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Workflow stage: knowledge_retrieval
+{"log_id": "log_58b11205", "timestamp": "2025-08-14T12:45:14.850869", "ticket_id": "LOG-TEST-001", "user_id": "user-log-001", "entry_type": "routing_choice", "stage": "routing", "level": "INFO", "message": "Routed from supervisor to billing: Category: billing, Complexity: simple", "data": {"from_agent": "supervisor", "to_agent": "billing", "reason": "Category: billing, Complexity: simple", "routing_data": {}, "timestamp": "2025-08-14T12:45:14.850832"}, "metadata": {"session_id": "session_LOG-TEST-001", "log_version": "1.0"}}
+2025-08-14 12:45:14,851 - workflow_logger - INFO - [ROUTING] Routed from supervisor to billing: Category: billing, Complexity: simple
+2025-08-14 12:45:14,851 - workflow_logger - INFO - [ROUTING] Routed from supervisor to billing: Category: billing, Complexity: simple
+2025-08-14 12:45:14,851 - workflow_logger - INFO - [ROUTING] Routed from supervisor to billing: Category: billing, Complexity: simple
+2025-08-14 12:45:14,851 - workflow_logger - INFO - [ROUTING] Routed from supervisor to billing: Category: billing, Complexity: simple
+{"log_id": "log_abd71e49", "timestamp": "2025-08-14T12:45:14.851969", "ticket_id": "LOG-TEST-001", "user_id": "user-log-001", "entry_type": "workflow_stage", "stage": "routing", "level": "INFO", "message": "Workflow stage: routing", "data": {"stage": "routing", "stage_data": {}, "timestamp": "2025-08-14T12:45:14.851866"}, "metadata": {"session_id": "session_LOG-TEST-001", "log_version": "1.0"}}
+2025-08-14 12:45:14,852 - workflow_logger - INFO - [ROUTING] Workflow stage: routing
+2025-08-14 12:45:14,852 - workflow_logger - INFO - [ROUTING] Workflow stage: routing
+2025-08-14 12:45:14,852 - workflow_logger - INFO - [ROUTING] Workflow stage: routing
+2025-08-14 12:45:14,852 - workflow_logger - INFO - [ROUTING] Workflow stage: routing
+{"log_id": "log_fe718639", "timestamp": "2025-08-14T12:45:14.858037", "ticket_id": "LOG-TEST-001", "user_id": "user-log-001", "entry_type": "resolution_attempt", "stage": "completion", "level": "INFO", "message": "Ticket completed with status: resolved", "data": {"final_status": "resolved", "resolution_summary": "Processed by 1 agents", "total_duration_seconds": 0.0, "timestamp": "2025-08-14T12:45:14.858020"}, "metadata": {"session_id": "session_LOG-TEST-001", "log_version": "1.0"}}
+2025-08-14 12:45:14,858 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: resolved
+2025-08-14 12:45:14,858 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: resolved
+2025-08-14 12:45:14,858 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: resolved
+2025-08-14 12:45:14,858 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: resolved
+2025-08-14 12:45:14,858 - workflow_logger - ERROR - Failed to search logs: Extra data: line 1 column 5 (char 4)
+2025-08-14 12:45:14,858 - workflow_logger - ERROR - Failed to search logs: Extra data: line 1 column 5 (char 4)
+2025-08-14 12:45:14,858 - workflow_logger - ERROR - Failed to search logs: Extra data: line 1 column 5 (char 4)
+2025-08-14 12:45:14,858 - workflow_logger - ERROR - Failed to search logs: Extra data: line 1 column 5 (char 4)
+2025-08-14 12:45:14,859 - workflow_logger - ERROR - Failed to search logs: Extra data: line 1 column 5 (char 4)
+2025-08-14 12:45:14,859 - workflow_logger - ERROR - Failed to search logs: Extra data: line 1 column 5 (char 4)
+2025-08-14 12:45:14,859 - workflow_logger - ERROR - Failed to search logs: Extra data: line 1 column 5 (char 4)
+2025-08-14 12:45:14,859 - workflow_logger - ERROR - Failed to search logs: Extra data: line 1 column 5 (char 4)
+2025-08-14 12:45:14,859 - workflow_logger - ERROR - Failed to search logs: Extra data: line 1 column 5 (char 4)
+2025-08-14 12:45:14,859 - workflow_logger - ERROR - Failed to search logs: Extra data: line 1 column 5 (char 4)
+2025-08-14 12:45:14,859 - workflow_logger - ERROR - Failed to search logs: Extra data: line 1 column 5 (char 4)
+2025-08-14 12:45:14,859 - workflow_logger - ERROR - Failed to search logs: Extra data: line 1 column 5 (char 4)
+2025-08-14 12:45:14,859 - workflow_logger - ERROR - Failed to search logs: Extra data: line 1 column 5 (char 4)
+2025-08-14 12:45:14,859 - workflow_logger - ERROR - Failed to search logs: Extra data: line 1 column 5 (char 4)
+2025-08-14 12:45:14,859 - workflow_logger - ERROR - Failed to search logs: Extra data: line 1 column 5 (char 4)
+2025-08-14 12:45:14,859 - workflow_logger - ERROR - Failed to search logs: Extra data: line 1 column 5 (char 4)
+{"log_id": "log_368e75af", "timestamp": "2025-08-14T12:45:14.928767", "ticket_id": "TOOL-001", "user_id": "user-tool-001", "entry_type": "ticket_submission", "stage": "submission", "level": "INFO", "message": "Ticket session started for TOOL-001", "data": {"ticket_id": "TOOL-001", "user_id": "user-tool-001", "initial_query": "Look up my account information for user@example.com", "session_start": "2025-08-14T12:45:14.928742"}, "metadata": {"session_id": "session_TOOL-001", "log_version": "1.0"}}
+2025-08-14 12:45:14,928 - workflow_logger - INFO - [SUBMISSION] Ticket session started for TOOL-001
+2025-08-14 12:45:14,928 - workflow_logger - INFO - [SUBMISSION] Ticket session started for TOOL-001
+2025-08-14 12:45:14,928 - workflow_logger - INFO - [SUBMISSION] Ticket session started for TOOL-001
+2025-08-14 12:45:14,928 - workflow_logger - INFO - [SUBMISSION] Ticket session started for TOOL-001
+2025-08-14 12:45:14,928 - workflow_logger - INFO - [SUBMISSION] Ticket session started for TOOL-001
+{"log_id": "log_604266ff", "timestamp": "2025-08-14T12:45:14.929016", "ticket_id": "TOOL-001", "user_id": "user-tool-001", "entry_type": "workflow_stage", "stage": "submission", "level": "INFO", "message": "Workflow stage: submission", "data": {"stage": "submission", "stage_data": {}, "timestamp": "2025-08-14T12:45:14.929009"}, "metadata": {"session_id": "session_TOOL-001", "log_version": "1.0"}}
+2025-08-14 12:45:14,929 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:45:14,929 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:45:14,929 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:45:14,929 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:45:14,929 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:45:14,935 - workflow_logger - ERROR - Failed to write log entry: Object of type datetime is not JSON serializable
+2025-08-14 12:45:14,935 - workflow_logger - ERROR - Failed to write log entry: Object of type datetime is not JSON serializable
+2025-08-14 12:45:14,935 - workflow_logger - ERROR - Failed to write log entry: Object of type datetime is not JSON serializable
+2025-08-14 12:45:14,935 - workflow_logger - ERROR - Failed to write log entry: Object of type datetime is not JSON serializable
+2025-08-14 12:45:14,935 - workflow_logger - ERROR - Failed to write log entry: Object of type datetime is not JSON serializable
+2025-08-14 12:45:14,935 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:45:14,935 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:45:14,935 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:45:14,935 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:45:14,935 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+{"log_id": "log_6555374a", "timestamp": "2025-08-14T12:45:14.935912", "ticket_id": "TOOL-001", "user_id": "user-tool-001", "entry_type": "workflow_stage", "stage": "classification", "level": "INFO", "message": "Workflow stage: classification", "data": {"stage": "classification", "stage_data": {}, "timestamp": "2025-08-14T12:45:14.935901"}, "metadata": {"session_id": "session_TOOL-001", "log_version": "1.0"}}
+2025-08-14 12:45:14,936 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:45:14,936 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:45:14,936 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:45:14,936 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:45:14,936 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+{"log_id": "log_f37d9dc4", "timestamp": "2025-08-14T12:45:14.936880", "ticket_id": "TOOL-001", "user_id": "user-tool-001", "entry_type": "knowledge_retrieval", "stage": "knowledge_retrieval", "level": "INFO", "message": "Knowledge retrieval: 3 articles found, confidence: none", "data": {"query": "Look up my account information for user@example.com", "articles_found": 3, "confidence": "none", "escalation_required": true, "timestamp": "2025-08-14T12:45:14.936861"}, "metadata": {"session_id": "session_TOOL-001", "log_version": "1.0"}}
+2025-08-14 12:45:14,937 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Knowledge retrieval: 3 articles found, confidence: none
+2025-08-14 12:45:14,937 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Knowledge retrieval: 3 articles found, confidence: none
+2025-08-14 12:45:14,937 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Knowledge retrieval: 3 articles found, confidence: none
+2025-08-14 12:45:14,937 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Knowledge retrieval: 3 articles found, confidence: none
+2025-08-14 12:45:14,937 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Knowledge retrieval: 3 articles found, confidence: none
+{"log_id": "log_3ef6c908", "timestamp": "2025-08-14T12:45:14.937149", "ticket_id": "TOOL-001", "user_id": "user-tool-001", "entry_type": "workflow_stage", "stage": "knowledge_retrieval", "level": "INFO", "message": "Workflow stage: knowledge_retrieval", "data": {"stage": "knowledge_retrieval", "stage_data": {}, "timestamp": "2025-08-14T12:45:14.937141"}, "metadata": {"session_id": "session_TOOL-001", "log_version": "1.0"}}
+2025-08-14 12:45:14,937 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Workflow stage: knowledge_retrieval
+2025-08-14 12:45:14,937 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Workflow stage: knowledge_retrieval
+2025-08-14 12:45:14,937 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Workflow stage: knowledge_retrieval
+2025-08-14 12:45:14,937 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Workflow stage: knowledge_retrieval
+2025-08-14 12:45:14,937 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Workflow stage: knowledge_retrieval
+{"log_id": "log_f664f7e3", "timestamp": "2025-08-14T12:45:16.992782", "ticket_id": "TOOL-001", "user_id": "user-tool-001", "entry_type": "escalation", "stage": "escalation", "level": "WARNING", "message": "Ticket escalated: Low confidence or complex issue", "data": {"reason": "Low confidence or complex issue", "escalation_type": "automatic", "details": {"routing_confidence": 0.0, "knowledge_confidence": "none"}, "timestamp": "2025-08-14T12:45:16.992733"}, "metadata": {"session_id": "session_TOOL-001", "log_version": "1.0"}}
+2025-08-14 12:45:16,993 - workflow_logger - WARNING - [ESCALATION] Ticket escalated: Low confidence or complex issue
+2025-08-14 12:45:16,993 - workflow_logger - WARNING - [ESCALATION] Ticket escalated: Low confidence or complex issue
+2025-08-14 12:45:16,993 - workflow_logger - WARNING - [ESCALATION] Ticket escalated: Low confidence or complex issue
+2025-08-14 12:45:16,993 - workflow_logger - WARNING - [ESCALATION] Ticket escalated: Low confidence or complex issue
+2025-08-14 12:45:16,993 - workflow_logger - WARNING - [ESCALATION] Ticket escalated: Low confidence or complex issue
+{"log_id": "log_4232eeb0", "timestamp": "2025-08-14T12:45:16.993578", "ticket_id": "TOOL-001", "user_id": "user-tool-001", "entry_type": "workflow_stage", "stage": "escalation", "level": "INFO", "message": "Workflow stage: escalation", "data": {"stage": "escalation", "stage_data": {}, "timestamp": "2025-08-14T12:45:16.993554"}, "metadata": {"session_id": "session_TOOL-001", "log_version": "1.0"}}
+2025-08-14 12:45:16,993 - workflow_logger - INFO - [ESCALATION] Workflow stage: escalation
+2025-08-14 12:45:16,993 - workflow_logger - INFO - [ESCALATION] Workflow stage: escalation
+2025-08-14 12:45:16,993 - workflow_logger - INFO - [ESCALATION] Workflow stage: escalation
+2025-08-14 12:45:16,993 - workflow_logger - INFO - [ESCALATION] Workflow stage: escalation
+2025-08-14 12:45:16,993 - workflow_logger - INFO - [ESCALATION] Workflow stage: escalation
+{"log_id": "log_03fb0e41", "timestamp": "2025-08-14T12:45:16.994373", "ticket_id": "TOOL-001", "user_id": "user-tool-001", "entry_type": "routing_choice", "stage": "routing", "level": "INFO", "message": "Routed from supervisor to escalation: Escalation required", "data": {"from_agent": "supervisor", "to_agent": "escalation", "reason": "Escalation required", "routing_data": {}, "timestamp": "2025-08-14T12:45:16.994358"}, "metadata": {"session_id": "session_TOOL-001", "log_version": "1.0"}}
+2025-08-14 12:45:16,994 - workflow_logger - INFO - [ROUTING] Routed from supervisor to escalation: Escalation required
+2025-08-14 12:45:16,994 - workflow_logger - INFO - [ROUTING] Routed from supervisor to escalation: Escalation required
+2025-08-14 12:45:16,994 - workflow_logger - INFO - [ROUTING] Routed from supervisor to escalation: Escalation required
+2025-08-14 12:45:16,994 - workflow_logger - INFO - [ROUTING] Routed from supervisor to escalation: Escalation required
+2025-08-14 12:45:16,994 - workflow_logger - INFO - [ROUTING] Routed from supervisor to escalation: Escalation required
+{"log_id": "log_a60d4cf2", "timestamp": "2025-08-14T12:45:16.994737", "ticket_id": "TOOL-001", "user_id": "user-tool-001", "entry_type": "workflow_stage", "stage": "routing", "level": "INFO", "message": "Workflow stage: routing", "data": {"stage": "routing", "stage_data": {}, "timestamp": "2025-08-14T12:45:16.994723"}, "metadata": {"session_id": "session_TOOL-001", "log_version": "1.0"}}
+2025-08-14 12:45:16,994 - workflow_logger - INFO - [ROUTING] Workflow stage: routing
+2025-08-14 12:45:16,994 - workflow_logger - INFO - [ROUTING] Workflow stage: routing
+2025-08-14 12:45:16,994 - workflow_logger - INFO - [ROUTING] Workflow stage: routing
+2025-08-14 12:45:16,994 - workflow_logger - INFO - [ROUTING] Workflow stage: routing
+2025-08-14 12:45:16,994 - workflow_logger - INFO - [ROUTING] Workflow stage: routing
+{"log_id": "log_86b0266b", "timestamp": "2025-08-14T12:45:16.996483", "ticket_id": "TOOL-001", "user_id": "user-tool-001", "entry_type": "resolution_attempt", "stage": "completion", "level": "INFO", "message": "Ticket completed with status: escalated", "data": {"final_status": "escalated", "resolution_summary": "Processed by 1 agents", "total_duration_seconds": 0.0, "timestamp": "2025-08-14T12:45:16.996467"}, "metadata": {"session_id": "session_TOOL-001", "log_version": "1.0"}}
+2025-08-14 12:45:16,996 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: escalated
+2025-08-14 12:45:16,996 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: escalated
+2025-08-14 12:45:16,996 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: escalated
+2025-08-14 12:45:16,996 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: escalated
+2025-08-14 12:45:16,996 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: escalated
+{"log_id": "log_9b31f102", "timestamp": "2025-08-14T12:45:16.996889", "ticket_id": "TOOL-002", "user_id": "user-tool-002", "entry_type": "ticket_submission", "stage": "submission", "level": "INFO", "message": "Ticket session started for TOOL-002", "data": {"ticket_id": "TOOL-002", "user_id": "user-tool-002", "initial_query": "I want to cancel my subscription", "session_start": "2025-08-14T12:45:16.996874"}, "metadata": {"session_id": "session_TOOL-002", "log_version": "1.0"}}
+2025-08-14 12:45:16,997 - workflow_logger - INFO - [SUBMISSION] Ticket session started for TOOL-002
+2025-08-14 12:45:16,997 - workflow_logger - INFO - [SUBMISSION] Ticket session started for TOOL-002
+2025-08-14 12:45:16,997 - workflow_logger - INFO - [SUBMISSION] Ticket session started for TOOL-002
+2025-08-14 12:45:16,997 - workflow_logger - INFO - [SUBMISSION] Ticket session started for TOOL-002
+2025-08-14 12:45:16,997 - workflow_logger - INFO - [SUBMISSION] Ticket session started for TOOL-002
+{"log_id": "log_c57b4a65", "timestamp": "2025-08-14T12:45:16.997202", "ticket_id": "TOOL-002", "user_id": "user-tool-002", "entry_type": "workflow_stage", "stage": "submission", "level": "INFO", "message": "Workflow stage: submission", "data": {"stage": "submission", "stage_data": {}, "timestamp": "2025-08-14T12:45:16.997189"}, "metadata": {"session_id": "session_TOOL-002", "log_version": "1.0"}}
+2025-08-14 12:45:16,997 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:45:16,997 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:45:16,997 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:45:16,997 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:45:16,997 - workflow_logger - INFO - [SUBMISSION] Workflow stage: submission
+2025-08-14 12:45:17,007 - workflow_logger - ERROR - Failed to write log entry: Object of type datetime is not JSON serializable
+2025-08-14 12:45:17,007 - workflow_logger - ERROR - Failed to write log entry: Object of type datetime is not JSON serializable
+2025-08-14 12:45:17,007 - workflow_logger - ERROR - Failed to write log entry: Object of type datetime is not JSON serializable
+2025-08-14 12:45:17,007 - workflow_logger - ERROR - Failed to write log entry: Object of type datetime is not JSON serializable
+2025-08-14 12:45:17,007 - workflow_logger - ERROR - Failed to write log entry: Object of type datetime is not JSON serializable
+2025-08-14 12:45:17,007 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:45:17,007 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:45:17,007 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:45:17,007 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+2025-08-14 12:45:17,007 - workflow_logger - INFO - [CLASSIFICATION] Agent supervisor made decision
+{"log_id": "log_9a6c8adf", "timestamp": "2025-08-14T12:45:17.007475", "ticket_id": "TOOL-002", "user_id": "user-tool-002", "entry_type": "workflow_stage", "stage": "classification", "level": "INFO", "message": "Workflow stage: classification", "data": {"stage": "classification", "stage_data": {}, "timestamp": "2025-08-14T12:45:17.007453"}, "metadata": {"session_id": "session_TOOL-002", "log_version": "1.0"}}
+2025-08-14 12:45:17,007 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:45:17,007 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:45:17,007 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:45:17,007 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+2025-08-14 12:45:17,007 - workflow_logger - INFO - [CLASSIFICATION] Workflow stage: classification
+{"log_id": "log_ccf0c081", "timestamp": "2025-08-14T12:45:17.008709", "ticket_id": "TOOL-002", "user_id": "user-tool-002", "entry_type": "knowledge_retrieval", "stage": "knowledge_retrieval", "level": "INFO", "message": "Knowledge retrieval: 3 articles found, confidence: high", "data": {"query": "I want to cancel my subscription", "articles_found": 3, "confidence": "high", "escalation_required": false, "timestamp": "2025-08-14T12:45:17.008691"}, "metadata": {"session_id": "session_TOOL-002", "log_version": "1.0"}}
+2025-08-14 12:45:17,008 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Knowledge retrieval: 3 articles found, confidence: high
+2025-08-14 12:45:17,008 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Knowledge retrieval: 3 articles found, confidence: high
+2025-08-14 12:45:17,008 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Knowledge retrieval: 3 articles found, confidence: high
+2025-08-14 12:45:17,008 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Knowledge retrieval: 3 articles found, confidence: high
+2025-08-14 12:45:17,008 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Knowledge retrieval: 3 articles found, confidence: high
+{"log_id": "log_5ca818a9", "timestamp": "2025-08-14T12:45:17.009037", "ticket_id": "TOOL-002", "user_id": "user-tool-002", "entry_type": "workflow_stage", "stage": "knowledge_retrieval", "level": "INFO", "message": "Workflow stage: knowledge_retrieval", "data": {"stage": "knowledge_retrieval", "stage_data": {}, "timestamp": "2025-08-14T12:45:17.009023"}, "metadata": {"session_id": "session_TOOL-002", "log_version": "1.0"}}
+2025-08-14 12:45:17,009 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Workflow stage: knowledge_retrieval
+2025-08-14 12:45:17,009 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Workflow stage: knowledge_retrieval
+2025-08-14 12:45:17,009 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Workflow stage: knowledge_retrieval
+2025-08-14 12:45:17,009 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Workflow stage: knowledge_retrieval
+2025-08-14 12:45:17,009 - workflow_logger - INFO - [KNOWLEDGE_RETRIEVAL] Workflow stage: knowledge_retrieval
+{"log_id": "log_1f9211b0", "timestamp": "2025-08-14T12:45:18.391774", "ticket_id": "TOOL-002", "user_id": "user-tool-002", "entry_type": "routing_choice", "stage": "routing", "level": "INFO", "message": "Routed from supervisor to billing: Category: billing, Complexity: simple", "data": {"from_agent": "supervisor", "to_agent": "billing", "reason": "Category: billing, Complexity: simple", "routing_data": {}, "timestamp": "2025-08-14T12:45:18.391743"}, "metadata": {"session_id": "session_TOOL-002", "log_version": "1.0"}}
+2025-08-14 12:45:18,392 - workflow_logger - INFO - [ROUTING] Routed from supervisor to billing: Category: billing, Complexity: simple
+2025-08-14 12:45:18,392 - workflow_logger - INFO - [ROUTING] Routed from supervisor to billing: Category: billing, Complexity: simple
+2025-08-14 12:45:18,392 - workflow_logger - INFO - [ROUTING] Routed from supervisor to billing: Category: billing, Complexity: simple
+2025-08-14 12:45:18,392 - workflow_logger - INFO - [ROUTING] Routed from supervisor to billing: Category: billing, Complexity: simple
+2025-08-14 12:45:18,392 - workflow_logger - INFO - [ROUTING] Routed from supervisor to billing: Category: billing, Complexity: simple
+{"log_id": "log_484cabe4", "timestamp": "2025-08-14T12:45:18.393130", "ticket_id": "TOOL-002", "user_id": "user-tool-002", "entry_type": "workflow_stage", "stage": "routing", "level": "INFO", "message": "Workflow stage: routing", "data": {"stage": "routing", "stage_data": {}, "timestamp": "2025-08-14T12:45:18.393088"}, "metadata": {"session_id": "session_TOOL-002", "log_version": "1.0"}}
+2025-08-14 12:45:18,393 - workflow_logger - INFO - [ROUTING] Workflow stage: routing
+2025-08-14 12:45:18,393 - workflow_logger - INFO - [ROUTING] Workflow stage: routing
+2025-08-14 12:45:18,393 - workflow_logger - INFO - [ROUTING] Workflow stage: routing
+2025-08-14 12:45:18,393 - workflow_logger - INFO - [ROUTING] Workflow stage: routing
+2025-08-14 12:45:18,393 - workflow_logger - INFO - [ROUTING] Workflow stage: routing
+{"log_id": "log_00e635f1", "timestamp": "2025-08-14T12:45:18.398545", "ticket_id": "TOOL-002", "user_id": "user-tool-002", "entry_type": "resolution_attempt", "stage": "completion", "level": "INFO", "message": "Ticket completed with status: resolved", "data": {"final_status": "resolved", "resolution_summary": "Processed by 1 agents", "total_duration_seconds": 0.0, "timestamp": "2025-08-14T12:45:18.398528"}, "metadata": {"session_id": "session_TOOL-002", "log_version": "1.0"}}
+2025-08-14 12:45:18,398 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: resolved
+2025-08-14 12:45:18,398 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: resolved
+2025-08-14 12:45:18,398 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: resolved
+2025-08-14 12:45:18,398 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: resolved
+2025-08-14 12:45:18,398 - workflow_logger - INFO - [COMPLETION] Ticket completed with status: resolved
