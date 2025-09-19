@@ -87,3 +87,17 @@ class Reservation(Base):
     def __repr__(self):
         return f"<Reservation(reservation_id='{self.reservation_id}', user_id='{self.user_id}', experience_id='{self.experience_id}', status='{self.status}')>"
 
+
+class Article(Base):
+    __tablename__ = "articles"
+
+    article_id = Column(String, primary_key=True)
+    title = Column(String, nullable=False)
+    content = Column(String, nullable=False)
+    tags = Column(String, nullable=True)
+    created_at = Column(DateTime, default=func.now())
+    updated_at = Column(DateTime, default=func.now(), onupdate=func.now())
+
+    def __repr__(self):
+        return f"<Article(article_id='{self.article_id}', title='{self.title}')>"
+
